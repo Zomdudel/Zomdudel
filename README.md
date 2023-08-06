@@ -10,9 +10,12 @@ like me :D
 
 Add me on Discord if you'd like: zomdudel
 
-/
 
 /
+
+
+/
+
 
 What I've learned so far (date I started to learn):
 
