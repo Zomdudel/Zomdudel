@@ -9,8 +9,10 @@ I'd love to meet a lot some
 01001110 01100101 01110010 01100100 01110011
 like me :D
 
+/
 
+/
 
-A list of the programming language and (when I started to learn it).
+What I've learned so far (and when I started with it):
 
 javascript (6. August 2023)
